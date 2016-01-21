@@ -1,3 +1,9 @@
+UPDATE
+====================
+npm run build-browser-e2e
+./examples/webrtc-browser-e2e/server.js
+
+
 Kad WebRTC Transport
 ====================
 
